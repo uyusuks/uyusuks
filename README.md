@@ -7,7 +7,5 @@
 </p>
 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25">
-  <b>.muriel.</b> — any type shi question you can reach
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/discord-808080?style=for-the-badge&logo=discord" height="20"> </p>
+any type shi question you can reach on dc, .muriel.
