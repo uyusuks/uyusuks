@@ -1,6 +1,6 @@
 ## uyusuks (.muriel.)
 
-![languages](https://img.shields.io/badge/languages-8A2BE2)
+![languages](https://img.shields.io/badge/Languages-purple?style=for-the-badge)
 
 ![luaU](https://img.shields.io/badge/LuaU-pink?style=for-the-badge)
 
