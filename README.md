@@ -1,10 +1,10 @@
 ## -- uyusuks (.muriel.)
 
-[![languages](https://img.shields.io/badge/LANGUAGES-8A2BE2)
 
-![C](https://img.shields.io/badge/C-808080)
-![C++](https://img.shields.io/badge/C++-808080)
-![lua](https://img.shields.io/badge/lua-808080)
-![luaU](https://img.shields.io/badge/luaU-808080)
+<p align="center">
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge" height="40">
+  <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox" height="40">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" height="40">
+</p>
 
 ## any type shi question you can reach on dc, .muriel.
